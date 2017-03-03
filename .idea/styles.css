@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    vertical-align: top;
+}
+
+
+button {
+    font-size: 20px;
+    height: 35px;
+    border-radius: 12px;
+    background-color: lightseagreen;
+}
+
+
+div {
+    margin: 10px 0px;
+}
